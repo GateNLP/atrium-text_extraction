@@ -1,2 +1,1 @@
-# atrium-text_extraction
-ATRIUM: Text Extraction
+# ATRIUM: Text Extraction
