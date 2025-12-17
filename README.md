@@ -38,7 +38,7 @@ options:
 
 As you can see for basic operation simply provide the path to the PDF file as the first argument and the path to where to store the JSON outpu tas the second argument. If you also want to perform OCR then simply add the `--ocr` flag.
 
-Note that in PDF files which were [born digital](https://en.wikipedia.org/wiki/Born-digital), it is unlikely you will want to run the OCR step. On PDF files which were created by scanning and OCRing paper documents sometimes it is useful to re-do the OCR as the performance may well have improved since they were originally produced.
+Note that for PDF files which were [born digital](https://en.wikipedia.org/wiki/Born-digital) it is unlikely you will want to run the OCR step. On PDF files which were created by scanning and OCRing paper documents sometimes it is useful to re-do the OCR as the performance may well have improved since they were originally produced.
 
 ## Json Output Format
 
